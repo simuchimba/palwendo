@@ -1,0 +1,38 @@
+
+
+**Database Name: palwendo**
+
+**Developed by Kuunda Simuchimba**
+
+**Recommended PHP Version 5, 7**
+
+
+**Admin Login Details** 
+
+Username: owner
+Password: codeastro.com
+
+Username: admin
+Password: codeastro.com
+
+
+**Customer Login Details** 
+
+Username: kuundas025@gmail.com
+Password: kuunda123
+
+Username: martha123
+Password: martha123
+
+Username: johnjohn123
+Password: johnjohn123
+
+Username: Test@gmail.com
+Password: test12345678
+
+Username: customer23
+Password: 12345678
+
+
+
+
